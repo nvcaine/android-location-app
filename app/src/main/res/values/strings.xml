@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Location App</string>
+
+    <string name="dialog_receive_location_error">There was a problem receiving the location.</string>
+    <string name="dialog_receive_location_title">Location update</string>
+    <string name="dialog_receive_location_error_title">Location update error</string>
+    <string name="dialog_current_location_coordinates">Current location:\n%1$f, %2$f\n%3$s</string>
+    <string name="dialog_current_location_coordinates_title">Location update</string>
+    <string name="dialog_permissions_error">The app does not have the appropriate permissions.</string>
+    <string name="dialog_permissions_error_title">Permissions error</string>
+
+    <string name="button_request_location">Request my location</string>
+</resources>
